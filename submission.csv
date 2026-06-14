@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.8764,Senior Machine Learning Engineer | 7.2y exp | skills=0.67 | title=1.0 | avail=0.77 | Strong Match
+CAND_0079387,2,0.8686,AI Engineer | 6.9y exp | skills=0.78 | title=1.0 | avail=0.71 | Strong Match
+CAND_0002025,3,0.8631,Senior AI Engineer | 5.9y exp | skills=0.61 | title=1.0 | avail=0.79 | Strong Match
+CAND_0042506,4,0.8499,Search Engineer | 4.2y exp | skills=0.66 | title=1.0 | avail=0.83 | Good Match
+CAND_0037944,5,0.8487,Senior Data Scientist | 4.9y exp | skills=0.82 | title=1.0 | avail=0.53 | Good Match
+CAND_0071974,6,0.8424,Senior AI Engineer | 7.8y exp | skills=0.64 | title=1.0 | avail=0.6 | Good Match
+CAND_0095619,7,0.838,NLP Engineer | 15.6y exp | skills=0.8 | title=1.0 | avail=0.73 | Good Match
+CAND_0081846,8,0.8356,Lead AI Engineer | 6.7y exp | skills=0.79 | title=1.0 | avail=0.7 | Good Match
+CAND_0088025,9,0.835,Staff Machine Learning Engineer | 8.6y exp | skills=0.71 | title=1.0 | avail=0.6 | Good Match
+CAND_0046064,10,0.8228,Senior NLP Engineer | 8.9y exp | skills=0.55 | title=1.0 | avail=0.71 | Good Match
+CAND_0008425,11,0.8226,Senior NLP Engineer | 7.8y exp | skills=0.76 | title=1.0 | avail=0.48 | Good Match
+CAND_0074735,12,0.822,Applied ML Engineer | 5.5y exp | skills=0.64 | title=1.0 | avail=0.4 | Good Match
+CAND_0064326,13,0.8205,Search Engineer | 7.6y exp | skills=0.62 | title=1.0 | avail=0.72 | Good Match
+CAND_0030031,14,0.8193,AI Engineer | 5.7y exp | skills=0.79 | title=1.0 | avail=0.47 | Good Match
+CAND_0039754,15,0.8159,Senior Applied Scientist | 16.2y exp | skills=0.71 | title=1.0 | avail=0.79 | Good Match
+CAND_0027691,16,0.813,NLP Engineer | 6.5y exp | skills=0.64 | title=1.0 | avail=0.69 | Good Match
+CAND_0076163,17,0.8098,NLP Engineer | 6.9y exp | skills=0.51 | title=1.0 | avail=0.62 | Good Match
+CAND_0050876,18,0.807,Applied ML Engineer | 6.0y exp | skills=0.52 | title=1.0 | avail=0.56 | Good Match
+CAND_0047721,19,0.8041,Senior Data Scientist | 7.0y exp | skills=0.75 | title=1.0 | avail=0.0 | Good Match
+CAND_0020708,20,0.8,Search Engineer | 4.2y exp | skills=0.79 | title=1.0 | avail=0.62 | Good Match
+CAND_0044855,21,0.7985,Senior Data Scientist | 6.6y exp | skills=0.81 | title=1.0 | avail=0.21 | Good Match
+CAND_0046525,22,0.7968,Senior Machine Learning Engineer | 6.1y exp | skills=0.64 | title=1.0 | avail=0.71 | Good Match
+CAND_0058688,23,0.7963,AI Engineer | 6.7y exp | skills=0.51 | title=1.0 | avail=0.7 | Good Match
+CAND_0072660,24,0.7933,Machine Learning Engineer | 7.1y exp | skills=0.52 | title=1.0 | avail=0.74 | Good Match
+CAND_0075249,25,0.7918,Applied ML Engineer | 6.2y exp | skills=0.71 | title=1.0 | avail=0.51 | Good Match
+CAND_0037566,26,0.7885,Machine Learning Engineer | 6.9y exp | skills=0.41 | title=1.0 | avail=0.75 | Good Match
+CAND_0083307,27,0.7876,Search Engineer | 7.8y exp | skills=0.62 | title=1.0 | avail=0.39 | Good Match
+CAND_0065195,28,0.7872,Search Engineer | 5.1y exp | skills=0.4 | title=1.0 | avail=0.69 | Good Match
+CAND_0020350,29,0.7863,AI Engineer | 5.8y exp | skills=0.57 | title=1.0 | avail=0.57 | Good Match
+CAND_0096142,30,0.7859,Applied ML Engineer | 5.0y exp | skills=0.57 | title=1.0 | avail=0.6 | Good Match
+CAND_0081053,31,0.7845,NLP Engineer | 5.4y exp | skills=0.52 | title=1.0 | avail=0.42 | Good Match
+CAND_0015578,32,0.7839,AI Engineer | 5.4y exp | skills=0.62 | title=1.0 | avail=0.38 | Good Match
+CAND_0008239,33,0.7838,AI Engineer | 4.0y exp | skills=0.5 | title=1.0 | avail=0.7 | Good Match
+CAND_0052682,34,0.7811,NLP Engineer | 6.6y exp | skills=0.43 | title=1.0 | avail=0.63 | Good Match
+CAND_0024466,35,0.7772,Search Engineer | 5.2y exp | skills=0.55 | title=1.0 | avail=0.52 | Good Match
+CAND_0095528,36,0.777,Senior Data Scientist | 5.3y exp | skills=0.54 | title=1.0 | avail=0.56 | Good Match
+CAND_0012957,37,0.7759,Search Engineer | 4.9y exp | skills=0.66 | title=1.0 | avail=0.13 | Good Match
+CAND_0061655,38,0.7757,Machine Learning Engineer | 4.6y exp | skills=0.49 | title=1.0 | avail=0.56 | Good Match
+CAND_0084819,39,0.7756,Search Engineer | 4.5y exp | skills=0.58 | title=1.0 | avail=0.5 | Good Match
+CAND_0007460,40,0.7748,AI Engineer | 4.7y exp | skills=0.54 | title=1.0 | avail=0.53 | Good Match
+CAND_0043228,41,0.7736,Applied ML Engineer | 6.8y exp | skills=0.64 | title=1.0 | avail=0.36 | Good Match
+CAND_0077337,42,0.7735,Staff Machine Learning Engineer | 7.0y exp | skills=0.56 | title=1.0 | avail=0.72 | Good Match
+CAND_0055905,43,0.7722,Senior Machine Learning Engineer | 8.1y exp | skills=0.5 | title=1.0 | avail=0.8 | Good Match
+CAND_0070202,44,0.7702,Machine Learning Engineer | 5.1y exp | skills=0.67 | title=1.0 | avail=0.2 | Good Match
+CAND_0016659,45,0.7672,ML Engineer | 4.4y exp | skills=0.49 | title=1.0 | avail=0.71 | Good Match
+CAND_0011687,46,0.763,Senior NLP Engineer | 7.8y exp | skills=0.27 | title=1.0 | avail=0.83 | Good Match
+CAND_0037980,47,0.762,Senior Applied Scientist | 9.0y exp | skills=0.41 | title=1.0 | avail=0.68 | Good Match
+CAND_0066376,48,0.7616,Applied ML Engineer | 5.7y exp | skills=0.65 | title=1.0 | avail=0.45 | Good Match
+CAND_0081686,49,0.7611,Search Engineer | 6.0y exp | skills=0.64 | title=1.0 | avail=0.28 | Good Match
+CAND_0052335,50,0.761,Applied ML Engineer | 6.4y exp | skills=0.51 | title=1.0 | avail=0.51 | Good Match
+CAND_0086022,51,0.7609,Senior Applied Scientist | 5.3y exp | skills=0.42 | title=1.0 | avail=0.76 | Good Match
+CAND_0099401,52,0.7605,NLP Engineer | 7.7y exp | skills=0.64 | title=1.0 | avail=0.16 | Good Match
+CAND_0049538,53,0.7598,Applied ML Engineer | 5.8y exp | skills=0.41 | title=1.0 | avail=0.42 | Good Match
+CAND_0005649,54,0.7592,Senior Data Scientist | 7.4y exp | skills=0.53 | title=1.0 | avail=0.46 | Good Match
+CAND_0068811,55,0.7562,Applied ML Engineer | 8.0y exp | skills=0.39 | title=1.0 | avail=0.71 | Good Match
+CAND_0093912,56,0.7544,Senior Data Scientist | 5.3y exp | skills=0.39 | title=1.0 | avail=0.68 | Good Match
+CAND_0050454,57,0.7531,AI Engineer | 6.8y exp | skills=0.56 | title=1.0 | avail=0.7 | Good Match
+CAND_0032515,58,0.7523,Machine Learning Engineer | 5.1y exp | skills=0.56 | title=1.0 | avail=0.29 | Good Match
+CAND_0030827,59,0.7499,Senior Data Scientist | 5.4y exp | skills=0.61 | title=1.0 | avail=0.35 | Good Match
+CAND_0074225,60,0.7497,Machine Learning Engineer | 4.3y exp | skills=0.54 | title=1.0 | avail=0.61 | Good Match
+CAND_0064904,61,0.7494,AI Engineer | 4.9y exp | skills=0.45 | title=1.0 | avail=0.41 | Good Match
+CAND_0051615,62,0.7491,Search Engineer | 4.6y exp | skills=0.34 | title=1.0 | avail=0.53 | Good Match
+CAND_0060072,63,0.7484,Staff Machine Learning Engineer | 5.7y exp | skills=0.56 | title=1.0 | avail=0.0 | Good Match
+CAND_0059017,64,0.7477,AI Research Engineer | 6.8y exp | skills=0.4 | title=1.0 | avail=0.4 | Good Match
+CAND_0094056,65,0.7476,NLP Engineer | 5.9y exp | skills=0.65 | title=1.0 | avail=0.16 | Good Match
+CAND_0006567,66,0.7474,Senior AI Engineer | 7.9y exp | skills=0.55 | title=1.0 | avail=0.61 | Good Match
+CAND_0036520,67,0.7459,Data Scientist | 4.2y exp | skills=0.4 | title=1.0 | avail=0.53 | Good Match
+CAND_0025335,68,0.7456,Data Scientist | 6.6y exp | skills=0.44 | title=1.0 | avail=0.53 | Good Match
+CAND_0049896,69,0.7455,Search Engineer | 7.3y exp | skills=0.5 | title=1.0 | avail=0.52 | Good Match
+CAND_0089552,70,0.7454,Machine Learning Engineer | 6.0y exp | skills=0.6 | title=1.0 | avail=0.1 | Good Match
+CAND_0070398,71,0.7438,Machine Learning Engineer | 7.2y exp | skills=0.64 | title=1.0 | avail=0.47 | Good Match
+CAND_0051630,72,0.7436,Machine Learning Engineer | 6.0y exp | skills=0.71 | title=1.0 | avail=0.0 | Good Match
+CAND_0075439,73,0.7435,Machine Learning Engineer | 4.3y exp | skills=0.49 | title=1.0 | avail=0.31 | Good Match
+CAND_0007411,74,0.7432,Senior Machine Learning Engineer | 8.0y exp | skills=0.43 | title=1.0 | avail=0.22 | Good Match
+CAND_0017093,75,0.7425,ML Engineer | 5.9y exp | skills=0.36 | title=1.0 | avail=0.75 | Good Match
+CAND_0091909,76,0.7416,Machine Learning Engineer | 6.9y exp | skills=0.52 | title=1.0 | avail=0.48 | Good Match
+CAND_0053591,77,0.7407,AI Engineer | 5.3y exp | skills=0.38 | title=1.0 | avail=0.69 | Good Match
+CAND_0098846,78,0.7405,AI Engineer | 7.6y exp | skills=0.28 | title=1.0 | avail=0.57 | Good Match
+CAND_0009691,79,0.7402,Applied ML Engineer | 6.2y exp | skills=0.33 | title=1.0 | avail=0.56 | Good Match
+CAND_0054546,80,0.7392,AI Research Engineer | 4.9y exp | skills=0.32 | title=1.0 | avail=0.61 | Good Match
+CAND_0081852,81,0.7391,Senior Data Scientist | 5.9y exp | skills=0.26 | title=1.0 | avail=0.62 | Good Match
+CAND_0045250,82,0.739,Applied ML Engineer | 6.6y exp | skills=0.61 | title=1.0 | avail=0.45 | Good Match
+CAND_0063736,83,0.7389,Data Scientist | 3.7y exp | skills=0.33 | title=1.0 | avail=0.7 | Good Match
+CAND_0005260,84,0.7387,Senior NLP Engineer | 5.2y exp | skills=0.52 | title=1.0 | avail=0.27 | Good Match
+CAND_0061352,85,0.7368,ML Engineer | 3.5y exp | skills=0.41 | title=1.0 | avail=0.56 | Good Match
+CAND_0033445,86,0.7362,ML Engineer | 6.8y exp | skills=0.28 | title=1.0 | avail=0.82 | Good Match
+CAND_0069905,87,0.7351,Applied ML Engineer | 6.6y exp | skills=0.54 | title=1.0 | avail=0.51 | Good Match
+CAND_0006418,88,0.7346,Machine Learning Engineer | 5.7y exp | skills=0.45 | title=1.0 | avail=0.53 | Good Match
+CAND_0043860,89,0.7343,Junior ML Engineer | 6.1y exp | skills=0.33 | title=1.0 | avail=0.79 | Good Match
+CAND_0054100,90,0.7342,Junior ML Engineer | 6.0y exp | skills=0.24 | title=1.0 | avail=0.69 | Good Match
+CAND_0093547,91,0.7341,Senior Machine Learning Engineer | 2.9y exp | skills=0.62 | title=1.0 | avail=0.15 | Good Match
+CAND_0094759,92,0.7319,Lead AI Engineer | 8.6y exp | skills=0.63 | title=1.0 | avail=0.12 | Good Match
+CAND_0062247,93,0.731,AI Engineer | 7.3y exp | skills=0.38 | title=1.0 | avail=0.71 | Good Match
+CAND_0075574,94,0.7296,Machine Learning Engineer | 5.7y exp | skills=0.38 | title=1.0 | avail=0.65 | Good Match
+CAND_0051004,95,0.7295,Senior Data Scientist | 4.7y exp | skills=0.29 | title=1.0 | avail=0.73 | Good Match
+CAND_0007412,96,0.7292,Applied ML Engineer | 7.4y exp | skills=0.41 | title=1.0 | avail=0.5 | Good Match
+CAND_0098217,97,0.7279,ML Engineer | 6.4y exp | skills=0.27 | title=1.0 | avail=0.52 | Good Match
+CAND_0028793,98,0.7268,Search Engineer | 7.2y exp | skills=0.5 | title=1.0 | avail=0.36 | Good Match
+CAND_0010257,99,0.7258,Senior Data Scientist | 6.5y exp | skills=0.42 | title=1.0 | avail=0.49 | Good Match
+CAND_0052328,100,0.7257,Recommendation Systems Engineer | 6.5y exp | skills=0.62 | title=0.5 | avail=0.61 | Good Match
